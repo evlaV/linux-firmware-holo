@@ -29,3 +29,17 @@ Version: BTFW.HAMILTON.2.0.0-00515-USB_PATCHZ-2
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and qca/NOTICE.txt for details
 
 --------------------------------------------------------------------------
+
+File: rtl_bt/rtl8822cu_fw.bin
+File: rtl_bt/rtl8822cu_config.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+
+Info:
+File rtl_bt/rtl8822cu_config came directly from Realtek. This file was
+updated on July 1, 2025.
+File rtl_bt/rtl8822cu_fw came directly from Realtek. This file was
+updated on November 2, 2025.
+
+--------------------------------------------------------------------------
+
